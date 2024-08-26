@@ -2,7 +2,7 @@
 
 **Paper:** 
 
-* TBP (Too Be Pubished)
+* TBP (Too Be Published)
   
   
 
