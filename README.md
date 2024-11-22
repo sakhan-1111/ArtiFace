@@ -38,7 +38,7 @@ Diffusion, (c) StarGAN, and (d) Taming Transformer.
 
 The dataset is hosted on Kaggle. The dataset can be downloaded using the link below:
 
-[ArtiFace Dataset](https://kaggle.com/datasets/8b11f39f58933fbef4f4d0c8c3c5bcb43d7ea09269d2891ca3bc2d834c6b165c)
+[ArtiFace Dataset](https://www.kaggle.com/datasets/8b11f39f58933fbef4f4d0c8c3c5bcb43d7ea09269d2891ca3bc2d834c6b165c/data)
 
 **How to use:**
 
