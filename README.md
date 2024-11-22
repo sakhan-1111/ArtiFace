@@ -23,7 +23,7 @@
 
 **Dataset Folder Structure:**
 
-TBP
+![2.png](/media/random/USB%20Drive/TXST/Research/DL/Deepfake%20Detection/Paper/Figures/2.png)
 
 **Dataset Download:**
 
