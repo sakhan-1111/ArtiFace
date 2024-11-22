@@ -29,6 +29,9 @@
 
 ![1.png](/Images/1.png)
 
+Fig. 1. Example of deepfaked faces using (a) ProjectedGAN, (b) Stable
+Diffusion, (c) StarGAN, and (d) Taming Transformer.
+
 **Dataset Download:**
 
 The dataset is hosted on Kaggle. The dataset can be downloaded using the link below:
