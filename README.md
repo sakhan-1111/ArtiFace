@@ -25,11 +25,13 @@
 
 ![2.png](/Images/2.png)
 
+Fig. 1. Folder structure and number of images in the ArtiFace dataset.
+
 **Samples of Fake Images:**
 
 ![1.png](/Images/1.png)
 
-Fig. 1. Example of deepfaked faces using (a) ProjectedGAN, (b) Stable
+Fig. 2. Example of deepfaked faces using (a) ProjectedGAN, (b) Stable
 Diffusion, (c) StarGAN, and (d) Taming Transformer.
 
 **Dataset Download:**
