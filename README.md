@@ -50,7 +50,18 @@ tar -xvf ArtiFace.tar.xz
 
 **Citation:**
 
-TBP
+```bibtex
+@INPROCEEDINGS{10754706,
+  author={Khan, Shafiqul Alam and Valles, Damian},
+  booktitle={2024 IEEE 15th Annual Ubiquitous Computing, Electronics & Mobile Communication Conference (UEMCON)}, 
+  title={Deepfake Detection Using Transfer Learning}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={556-562},
+  keywords={Training;Deepfakes;Social networking (online);Law enforcement;Face recognition;Computational modeling;Transfer learning;Mobile communication;Security;Surges;deepfake detection;GANs;transfer learning;deep learning;identity verification},
+  doi={10.1109/UEMCON62879.2024.10754706}}
+```
 
 **License:**
 
