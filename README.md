@@ -1,20 +1,14 @@
-# ArtiFact: A dataset for deepfake detection.
+# ArtiFace: A dataset for deepfake detection.
 
 **Paper:** 
 
 * TBP (Too Be Published)
-  
-  
 
 **Abstract:** TBP
-
-
 
 **Update:**
 
 * 2024-08-26 Dataset is available on Kaggle.
-
-
 
 **Dataset Description:**
 
@@ -26,21 +20,15 @@
 * Image Resolution: 200 x 200
 * Image format: jpg
 
-
-
 **Dataset Folder Structure:**
 
 TBP
-
-
 
 **Dataset Download:**
 
 The dataset is hosted on Kaggle. The dataset can be downloaded using the link below:
 
 [ArtiFace Dataset](https://kaggle.com/datasets/8b11f39f58933fbef4f4d0c8c3c5bcb43d7ea09269d2891ca3bc2d834c6b165c)
-
-
 
 **How to use:**
 
@@ -50,13 +38,9 @@ Extract the dataset using the command below:
 tar -xvf ArtiFace.tar.xz
 ```
 
-
-
 **Citation:**
 
 TBP
-
-
 
 **License:**
 
@@ -75,8 +59,6 @@ The licenses assosicated with the sources of the ArtiFace dataset is listed belo
 | FFHQ               | Creative Commons BY-NC-SA 4.0 license |
 
 </details>
-
-
 
 **Acknowledgment:**
 
