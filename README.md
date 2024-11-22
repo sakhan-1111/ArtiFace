@@ -2,9 +2,9 @@
 
 **Paper:** 
 
-* TBP (Too Be Published)
+* IEEE Xplore: https://ieeexplore.ieee.org/document/10754706
 
-**Abstract:** TBP
+**Abstract:** Deepfake technology’s rise has led to a surge in false identities, creating a significant and present problem with broad societal ramifications. Concerns over identity theft, harassment, and the dissemination of false information have escalated due to the simplicity with which deepfaked facial images can now be produced and distributed thanks to the broad availability of generative AI tools like Generative Adversarial Networks (GANs). The availability of these tools has political ramifications since it can degrade public opinion and damage institutional trust. As such, the ability to identify deepfake face images has become essential. Ensuring a person’s identity is critical in preventing the dissemination of false information on social media. Detection of deepfake facial images is also necessary for identity verification in border control, law enforcement, and security applications. To effectively and precisely recognize deepfake face images, this study effort has focused on modifying transfer learning models, such as ResNet101V2, MobileNetV2, NASNetLarge, NASNetMobile, DenseNet121, DenseNet169, DenseNet201, and Xception.
 
 **Update:**
 
