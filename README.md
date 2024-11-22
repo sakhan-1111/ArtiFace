@@ -23,9 +23,11 @@
 
 **Dataset Folder Structure:**
 
-
-
 ![2.png](/Images/2.png)
+
+**Samples of Fake Images:**
+
+![1.png](/Images/1.png)
 
 **Dataset Download:**
 
