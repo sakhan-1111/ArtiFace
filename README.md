@@ -23,7 +23,9 @@
 
 **Dataset Folder Structure:**
 
-![2.png](/media/random/USB%20Drive/TXST/Research/DL/Deepfake%20Detection/Paper/Figures/2.png)
+
+
+![2.png](/home/random/Desktop/GitHub/ArtiFace/Images/2.png)
 
 **Dataset Download:**
 
