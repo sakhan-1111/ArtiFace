@@ -25,7 +25,7 @@
 
 
 
-![2.png](/home/random/Desktop/GitHub/ArtiFace/Images/2.png)
+![2.png](/Images/2.png)
 
 **Dataset Download:**
 
